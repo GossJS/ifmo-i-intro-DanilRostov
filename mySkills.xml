@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+	<myrepresentation>
+		<!-- Навыки -->
+		<hardskills>
+			<hardskill in="HTML" value="middle"/>
+			<hardskill in="CSS" value="middle"/>
+			<hardskill in="JavaScript" value="middle"/>
+			<hardskill in="Wordpress" value="middle"/>
+			<hardskill in="SQL" value="beginner"/>
+			<hardskill in="PHP" value="beginner"/>
+			<hardskill in="NodeJS" value="beginner"/>
+		</hardskills>	
+		<!-- Умения -->
+		<softskills>
+			<softskill in="education" value="good"/>
+			<softskill in="communication" value="good"/>
+			<softskill in="time-managment" value="so so"/>
+			<softskill in="enjoyment of lifet" value="very good"/>
+		</softskills>
+		<!-- Опыт -->
+		<experiences>
+			<experience in="freelance" value="5 mounth"/>
+		</experiences>
+	</myrepresentation>
